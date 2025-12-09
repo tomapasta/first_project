@@ -1,22 +1,30 @@
-"""this function reset the hidden index into start from 1, not 0"""
+import pandas as pd
+
 
 #reset index 
-def index_reset () : 
-    df.reset_index(drop=True, inplace=True)
+def index_reset(df: pd.DataFrame) -> pd.DataFrame: 
+    """
+    this function reset the hidden index into start from 1, not 0
+    """
+    df2 = df.copy()
+    df2.reset_index(drop=True, inplace=True)
 
-    df.index = df.index + 1
-    df.index.name = None
+    df2.index = df2.index + 1
+    df2.index.name = None
 
-    return df 
+    return df2 
     
-index_reset ()
 
 #cleaning datetime 
-"""this function convert Release Year columns from data type 'object' to date-time"""
 
-def datetime (): 
- df["release_year"] = pd.to_datetime(df["release_year"],errors="coerce")
- return df 
+def date_time(df: pd.DataFrame, column_name: str) -> pd.DataFrame: 
+    """
+    this function convert Release Year columns from data type 'object' to date-time
+    """
+
+    df2 = df.copy()
+    df2[column_name] = pd.to_datetime(df2[column_name],errors="coerce")
+    
+    return df2 
 #df["Release Year"] = pd.to_numeric(df["Release Year"], errors='coerce')
 #df["Release Year"] = df["Release Year"].astype("Int64")
-datetime () 
