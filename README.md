@@ -98,7 +98,7 @@ If the fund can only invest in one console ecosystem, which platform looks most 
 - Revenue growth over time
 - How many players are in the genre, and by console, etc 
 
-
+-  
 
 # Day 3 – Conclusions | Assembling report
 
