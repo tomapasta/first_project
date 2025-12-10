@@ -3,7 +3,7 @@
 #
 #================================================================
 
-# Remember to modify your functions to use the template shown below
+# rename_columns.py
 
 def rename_multiple_columns(df, column_mapping):
     """
