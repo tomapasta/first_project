@@ -13,6 +13,10 @@ This project analyzes global gaming industry trends (2000–2024) to identify th
 - **Approach:** Analyze platform performance, genre trends, and correlations between ratings and revenues.  
 - **Dataset:** [Gaming Trend 2000–2024](https://www.kaggle.com/datasets/haseebindata/gaming-industry-trends-1000-rows).
 
+## Final project presentation
+The results from the analysis can be found in the presentation slides of the project:
+https://docs.google.com/presentation/d/1oWkrltrtDz9xgZqZ8cStePZL4h0kxAryEGfsRMhdTBc/edit?usp=sharing
+
 
 ## Tools & Libraries
 - Python 3  
@@ -21,6 +25,7 @@ This project analyzes global gaming industry trends (2000–2024) to identify th
 - Matplotlib, Seaborn (visualization)  
 - Trello (project management)  
 - GitHub (collaboration)
+- Miro (Visualization)
 
 ## Day 1 - Project Initiation & Data Selection
 On Day 1 we focused on dataset selection and cleaning. 
@@ -163,10 +168,23 @@ Every team member worked in their own Jupyter file, then we compiled all code fr
 We had some challenges compiling all the code in the same file, because of conflicts in column names and some rows. This could be avoided if all members started to code after the cleaning process.
 
 
-
-
 ## Day 5 – Project Presentation
 On Day 5 we presented our findings and pitched the business plan. 
+We finish the final code, with legends about the code to fill best practises learnings. 
+
+### 1. Relationship charts
+
+We draw a Relationship chart in Miro from our database, for practise purposes. 
+https://miro.com/welcomeonboard/MWVWcnVEbGd5bDcvVlVRVDBFdUZjNGE4dGt3OSswc1p0U3VCaXM4R09QYUJQd3RHc2lUOWowM29YMHFrVXpZV0ZWa1lWMFpxOHBoSHhSK0N2QTVGWXZWeUN3aDhucmUxNTBaRUJDNEFzREU1NSsxeG9GalNsSHZ2ZEtwb1cwa0FBS2NFMDFkcUNFSnM0d3FEN050ekl3PT0hdjE=?share_link_id=78059787364
+
+Than we translate the chart to DrawDB to get code for SQL, for practise purposes. 
+https://www.drawdb.app/editor?shareId=aefa044a1175f8ca638d2245f72bc3eb
+
+We had the chart images in Figure folder. 
+
+### 2. Final project presentation
+The results from the analysis can be found in the presentation slides of the project:
+https://docs.google.com/presentation/d/1oWkrltrtDz9xgZqZ8cStePZL4h0kxAryEGfsRMhdTBc/edit?usp=sharing
 
 This project helped our team practice collaborative data analysis, investment reasoning, and Python-based visualization while exploring key trends in the global gaming industry.
 
