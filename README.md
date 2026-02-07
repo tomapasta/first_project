@@ -1,10 +1,10 @@
 # Gaming Investment Group
 
 ## Team Members:
-A.K
-Rui
-Davy
-Charul
+A.K, 
+R.P, 
+D.G, 
+C.M
 
 ## Project Overview
 This project analyzes global gaming industry trends (2000–2024) to identify the most promising investment opportunities across platforms, genres, and publishers using data analysis and visualization.
@@ -14,8 +14,7 @@ This project analyzes global gaming industry trends (2000–2024) to identify th
 - **Dataset:** [Gaming Trend 2000–2024](https://www.kaggle.com/datasets/haseebindata/gaming-industry-trends-1000-rows).
 
 ## Final project presentation
-The results from the analysis can be found in the presentation slides [here](https://docs.google.com/presentation/d/1oWkrltrtDz9xgZqZ8cStePZL4h0kxAryEGfsRMhdTBc/edit?usp=sharing
-)
+The results from the analysis can be found in the presentation slides available upon request
 
 
 ## Tools & Libraries
@@ -85,13 +84,14 @@ date/time cleaning
 resetting the index 
 
 ### 4. Created a Kanban Board for Project Management Purposes on Trello.
-We organized the tasks between AM/PM for the whole week. 
+Using Kanban Board, A.K managed the tasks on Trello, organising the tasks between AM/PM for the whole duration of 4 days project. 
+
 <img width="1762" height="609" alt="Screenshot 2026-02-07 113142" src="https://github.com/user-attachments/assets/b395256a-e796-4cd0-ba3c-2621fb0bbb1a" />
 
 
 ### 5. Created a Github Repository for the Project
 
-We created the repository and defined the collaboration status for all group members. We use branch and merge techniques, so all files are always updated. We have practiced working collaboratively on the repository.
+We created the repository and defined the collaboration status for all group members using branch and merge techniques, so all files are always updated. We have practiced working collaboratively on the repository.
 
 ## Day 2 – Data Examination and Hypothesis
 
