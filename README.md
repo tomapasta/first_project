@@ -18,13 +18,19 @@ The results from the analysis can be found in the presentation slides available 
 
 
 ## Tools & Libraries
-- Python 3  
-- Pandas (data manipulation)  
-- NumPy (numerical operations)  
-- Matplotlib, Seaborn (visualization)  
+  
 - Trello (project management)  
 - GitHub (collaboration)
 - Miro (Visualization)
+
+![Python](https://img.shields.io/badge/Python-3.10-3776AB?logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Visualization-4C72B0?style=flat&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=flat&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
+![ERD](https://img.shields.io/badge/ERD-Database%20Schema-00758F?logo=databricks&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?logo=Trello&logoColor=white)
 
 ## Day 1 - Project Initiation & Data Selection
 On Day 1 we focused on dataset selection and cleaning. 
