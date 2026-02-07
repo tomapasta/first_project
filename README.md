@@ -12,7 +12,7 @@ This project analyses global gaming industry trends (2000–2024) to identify th
 - **Objective:** Identify profitable and stable investment opportunities in gaming (console).  
 - **Approach:** Executed a multi-dimensional performance analysis using segmented time-series to correlate critical sentiment, player engagement, and platform growth trends for high-ROI investment mapping.
   
-📊 Dataset
+## 📊 Dataset
 
  [Gaming Trend 2000–2024](https://www.kaggle.com/datasets/haseebindata/gaming-industry-trends-1000-rows).
 
