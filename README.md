@@ -174,13 +174,14 @@ We finish the final code, with legends about the code to fill best practises lea
 
 ### 1. Relationship charts
 
-We draw a Relationship chart in Miro from our database, for practise purposes. 
-https://miro.com/welcomeonboard/MWVWcnVEbGd5bDcvVlVRVDBFdUZjNGE4dGt3OSswc1p0U3VCaXM4R09QYUJQd3RHc2lUOWowM29YMHFrVXpZV0ZWa1lWMFpxOHBoSHhSK0N2QTVGWXZWeUN3aDhucmUxNTBaRUJDNEFzREU1NSsxeG9GalNsSHZ2ZEtwb1cwa0FBS2NFMDFkcUNFSnM0d3FEN050ekl3PT0hdjE=?share_link_id=78059787364
+We drew a Relationship chart in Miro from our database, for practise purposes. 
+<img width="1053" height="718" alt="image" src="https://github.com/user-attachments/assets/7c6ca3b2-c04c-400c-982a-8f5358b53d95" />
+
 
 Than we translate the chart to DrawDB to get code for SQL, for practise purposes. 
 https://www.drawdb.app/editor?shareId=aefa044a1175f8ca638d2245f72bc3eb
 
-We had the chart images in Figure folder. 
+Chart images saved in Figure folder. 
 
 ### 2. Final project presentation
 The results from the analysis available upon request
