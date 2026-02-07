@@ -14,7 +14,8 @@ This project analyzes global gaming industry trends (2000–2024) to identify th
 - **Dataset:** [Gaming Trend 2000–2024](https://www.kaggle.com/datasets/haseebindata/gaming-industry-trends-1000-rows).
 
 ## Final project presentation
-The results from the analysis can be found in the presentation slides, available upon request 
+The results from the analysis can be found in the presentation slides [here](https://docs.google.com/presentation/d/1oWkrltrtDz9xgZqZ8cStePZL4h0kxAryEGfsRMhdTBc/edit?usp=sharing
+)
 
 
 ## Tools & Libraries
@@ -84,8 +85,9 @@ date/time cleaning
 resetting the index 
 
 ### 4. Created a Kanban Board for Project Management Purposes on Trello.
-We organized the tasks between before and after lunch for the whole week. 
-https://trello.com/b/p5use74G/ravenclaw
+We organized the tasks between AM/PM for the whole week. 
+<img width="1762" height="609" alt="Screenshot 2026-02-07 113142" src="https://github.com/user-attachments/assets/b395256a-e796-4cd0-ba3c-2621fb0bbb1a" />
+
 
 ### 5. Created a Github Repository for the Project
 
