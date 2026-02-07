@@ -19,7 +19,7 @@ This project analyses global gaming industry trends (2000–2024) to identify th
 ## 📈 Key Findings 
 
 - **The Quality Multiplier**: A direct correlation exists between high Metacritic scores and total revenue. Higher critical acclaim consistently drives higher sales.
-- **Platform Powerhouses**: * Nintendo Switch leads in revenue per game, PlayStation maintains the largest total player base.
+- **Platform Powerhouses**: Nintendo Switch leads in revenue per game, PlayStation maintains the largest total player base.
 - **Genre Dominance** : The industry is anchored by Action, Strategy, and Sports, which consistently attract the highest volume of players.
 - **Strategic Growth** : Investing in platforms showing a multi-year growth trend is a confirmed indicator of high ROI.
 
