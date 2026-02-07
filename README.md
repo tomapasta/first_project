@@ -18,10 +18,6 @@ The results from the analysis can be found in the presentation slides available 
 
 
 ## Tools & Libraries
-  
-- Trello (project management)  
-- GitHub (collaboration)
-- Miro (Visualization)
 
 ![Python](https://img.shields.io/badge/Python-3.10-3776AB?logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
