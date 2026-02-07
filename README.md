@@ -1,7 +1,7 @@
 # Ravenclaw Gaming Investment Group
 
 ## Team Members:
-Ako 
+A.K
 Rui
 Davy
 Charul
