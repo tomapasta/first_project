@@ -14,8 +14,7 @@ This project analyzes global gaming industry trends (2000–2024) to identify th
 - **Dataset:** [Gaming Trend 2000–2024](https://www.kaggle.com/datasets/haseebindata/gaming-industry-trends-1000-rows).
 
 ## Final project presentation
-The results from the analysis can be found in the presentation slides of the project:
-https://docs.google.com/presentation/d/1oWkrltrtDz9xgZqZ8cStePZL4h0kxAryEGfsRMhdTBc/edit?usp=sharing
+The results from the analysis can be found in the presentation slides, available upon request 
 
 
 ## Tools & Libraries
@@ -46,8 +45,6 @@ We are a group of game investors in Europe, and we are looking for where to inve
 ### 2. Dataset Selection
 
 To look for this, we took the database Gaming Trend 2000-2024 as our research lab to build an investment thesis. 
-
-https://www.kaggle.com/datasets/haseebindata/gaming-industry-trends-1000-rows
 
 This dataset provides detailed information of a thousand console games, including:
 
@@ -90,8 +87,7 @@ resetting the index
 We organized the tasks between before and after lunch for the whole week. 
 https://trello.com/b/p5use74G/ravenclaw
 
-### 5. Created a Github Repository for the Project:
-https://github.com/tomapasta/first_project
+### 5. Created a Github Repository for the Project
 
 We created the repository and defined the collaboration status for all group members. We use branch and merge techniques, so all files are always updated. We have practiced working collaboratively on the repository.
 
