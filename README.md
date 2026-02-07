@@ -1,4 +1,4 @@
-# Ravenclaw Gaming Investment Group
+# Gaming Investment Group
 
 ## Team Members:
 A.K
@@ -82,7 +82,7 @@ duplicate data
 format the data (REGIX) 
 datatype handling (verify type, convert to int, float, or string) 
 
-### Ako:
+### A.K:
 date/time cleaning 
 resetting the index 
 
@@ -183,8 +183,7 @@ https://www.drawdb.app/editor?shareId=aefa044a1175f8ca638d2245f72bc3eb
 We had the chart images in Figure folder. 
 
 ### 2. Final project presentation
-The results from the analysis can be found in the presentation slides of the project:
-https://docs.google.com/presentation/d/1oWkrltrtDz9xgZqZ8cStePZL4h0kxAryEGfsRMhdTBc/edit?usp=sharing
+The results from the analysis available upon request
 
 This project helped our team practice collaborative data analysis, investment reasoning, and Python-based visualization while exploring key trends in the global gaming industry.
 
