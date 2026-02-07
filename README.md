@@ -7,14 +7,25 @@ D.G,
 C.M
 
 ## Project Overview
-This project analyzes global gaming industry trends (2000–2024) to identify the most promising investment opportunities across platforms, genres, and publishers using data analysis and visualization.
+This project analyses global gaming industry trends (2000–2024) to identify the most promising investment opportunities across platforms, genres, and publishers using data analysis and visualisation.
 
 - **Objective:** Identify profitable and stable investment opportunities in gaming.  
-- **Approach:** Analyze platform performance, genre trends, and correlations between ratings and revenues.  
+- **Approach:** Analysing platform performance, genre trends, and correlations between ratings and revenues.  
 - **Dataset:** [Gaming Trend 2000–2024](https://www.kaggle.com/datasets/haseebindata/gaming-industry-trends-1000-rows).
 
-## Final project presentation
-The results from the analysis can be found in the presentation slides available upon request
+## Key Findings 
+
+- **The Quality Multiplier**: A direct correlation exists between high Metacritic scores and total revenue. Higher critical acclaim consistently drives higher sales.
+- **Platform Powerhouses**: * Nintendo Switch leads in revenue per game, PlayStation maintains the largest total player base.
+- **Genre Dominance** : The industry is anchored by Action, Strategy, and Sports, which consistently attract the highest volume of players.
+- **Strategic Growth** : Investing in platforms showing a multi-year growth trend is a confirmed indicator of high ROI.
+
+## 💡 Recommendations
+
+- **Primary Strategy**: Focus on Multi-platform development with a specialised optimisation for Nintendo consoles to maximise revenue per unit.
+- **Prioritise Quality**: Aim for a Metacritic score of 80%+ (referencing Sony's benchmark of 47+ titles) to ensure peak revenue performance.
+- **Target High-Volume Genres**: Align development resources toward Action, Strategy, or Sports to capture the broadest market share.
+- **Scale via PlayStation**: Utilise PlayStation's massive player base to generate high total volume, while leveraging Nintendo for high-margin returns.
 
 
 ## Tools & Libraries
@@ -184,7 +195,7 @@ https://www.drawdb.app/editor?shareId=aefa044a1175f8ca638d2245f72bc3eb
 Chart images saved in Figure folder. 
 
 ### 2. Final project presentation
-The results from the analysis available upon request
+The results from the analysis available upon request.
 
 This project helped our team practice collaborative data analysis, investment reasoning, and Python-based visualization while exploring key trends in the global gaming industry.
 
