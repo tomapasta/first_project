@@ -9,18 +9,21 @@ C.M
 ## Project Overview
 This project analyses global gaming industry trends (2000–2024) to identify the most promising investment opportunities across platforms, genres, and publishers using data analysis and visualisation.
 
-- **Objective:** Identify profitable and stable investment opportunities in gaming.  
-- **Approach:** Analysing platform performance, genre trends, and correlations between ratings and revenues.  
-- **Dataset:** [Gaming Trend 2000–2024](https://www.kaggle.com/datasets/haseebindata/gaming-industry-trends-1000-rows).
+- **Objective:** Identify profitable and stable investment opportunities in gaming (console).  
+- **Approach:** Executed a multi-dimensional performance analysis using segmented time-series to correlate critical sentiment, player engagement, and platform growth trends for high-ROI investment mapping.
+  
+📊 Dataset
 
-## Key Findings 
+ [Gaming Trend 2000–2024](https://www.kaggle.com/datasets/haseebindata/gaming-industry-trends-1000-rows).
+
+## 📈 Key Findings 
 
 - **The Quality Multiplier**: A direct correlation exists between high Metacritic scores and total revenue. Higher critical acclaim consistently drives higher sales.
 - **Platform Powerhouses**: * Nintendo Switch leads in revenue per game, PlayStation maintains the largest total player base.
 - **Genre Dominance** : The industry is anchored by Action, Strategy, and Sports, which consistently attract the highest volume of players.
 - **Strategic Growth** : Investing in platforms showing a multi-year growth trend is a confirmed indicator of high ROI.
 
-## 💡 Recommendations
+## 🎯 Recommendations
 
 - **Primary Strategy**: Focus on Multi-platform development with a specialised optimisation for Nintendo consoles to maximise revenue per unit.
 - **Prioritise Quality**: Aim for a Metacritic score of 80%+ (referencing Sony's benchmark of 47+ titles) to ensure peak revenue performance.
@@ -28,7 +31,7 @@ This project analyses global gaming industry trends (2000–2024) to identify th
 - **Scale via PlayStation**: Utilise PlayStation's massive player base to generate high total volume, while leveraging Nintendo for high-margin returns.
 
 
-## Tools & Libraries
+## 🛠️  Tools & Libraries
 
 ![Python](https://img.shields.io/badge/Python-3.10-3776AB?logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
@@ -38,6 +41,9 @@ This project analyses global gaming industry trends (2000–2024) to identify th
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
 ![ERD](https://img.shields.io/badge/ERD-Database%20Schema-00758F?logo=databricks&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?logo=Trello&logoColor=white)
+
+
+## Daily Task Flow 
 
 ## Day 1 - Project Initiation & Data Selection
 On Day 1 we focused on dataset selection and cleaning. 
