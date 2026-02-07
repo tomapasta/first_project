@@ -66,16 +66,16 @@ This dataset is useful for market research, such as identifying the best-perform
 ### 3. Data Transformation
 The original dataset was almost clean, but we cleaned it using several techniques, then saved each function in a different .py file to apply later. 
 
-### Charul:
+### C.M:
 null values (to check) 
 filling Null Values 
 column standardization (drop columns, head names, etc.) 
 
-### Davy:
+### D.G:
 outlier handling 
 duplicate data
 
-### Rui:
+### R.P:
 format the data (REGIX) 
 datatype handling (verify type, convert to int, float, or string) 
 
